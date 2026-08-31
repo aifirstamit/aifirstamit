@@ -1,7 +1,7 @@
 # AI First 🤖
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Learn+AI+%E2%80%A2+Build+AI+%E2%80%A2+Explore+What's+Next;Learn+%E2%80%A2+Experiment+%E2%80%A2+Build+%E2%80%A2+Share;Making+Artificial+Intelligence+Practical+%26+Accessible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Learn+AI+%E2%80%A2+Build+AI+%E2%80%A2+Explore+What's+Next;Learn+%E2%80%A2+Experiment+%E2%80%A2+Build+%E2%80%A2+Share;Making+AI+Practical+%26+Accessible" alt="Typing SVG" />
 </p>
 
 <p align="center">
