@@ -14,21 +14,29 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Development**
+### Languages & Development
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python, Git, GitHub, VS Code" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python, Git, GitHub, VS Code" />
+</p>
 
-**Data & AI**
+### Data & AI
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow,pytorch" alt="NumPy, Pandas, TensorFlow, PyTorch" />
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow,pytorch" alt="NumPy, Pandas, TensorFlow, PyTorch" />
+</p>
 
-**Databases & Platforms**
+### Databases & Systems
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,linux" alt="MySQL, MongoDB, Linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,linux" alt="MySQL, MongoDB, Linux" />
+</p>
 
-**Enterprise & AI Tools**
+**Unix** · **ServiceNow** · **Antigravity**
 
-`Unix` · `ServiceNow` · `Antigravity` · `ChatGPT` · `Gemini` · `Claude` · `Grok`
+### AI Tools
+
+**ChatGPT** · **Gemini** · **Claude** · **Grok**
 
 ---
 
@@ -36,26 +44,44 @@
 
 ### [Tasks](https://github.com/aifirstamit/Tasks)
 
-Python exercises and practical implementations focused on strengthening programming fundamentals and problem-solving.
+Python exercises and practical implementations focused on programming fundamentals and problem-solving.
 
 ---
 
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aifirstamit&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aifirstamit&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aifirstamit&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aifirstamit&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aifirstamit&hide_border=true&theme=transparent" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=aifirstamit&hide_border=true&theme=transparent" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/aifirstamit/aifirstamit/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/aifirstamit/aifirstamit/output/github-contribution-grid-snake.svg">
+    <img
+      src="https://raw.githubusercontent.com/aifirstamit/aifirstamit/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake" />
+  </picture>
 </p>
 
 ---
 
 ## 🌐 Connect
 
-<p align="left">
+<p>
   <a href="https://github.com/aifirstamit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -72,6 +98,8 @@ Python exercises and practical implementations focused on strengthening programm
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <i>Learn AI. Build AI. Shape the Future.</i>
