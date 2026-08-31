@@ -1,11 +1,11 @@
-# AI First 🤖
+# 👋 Hi, I'm Amit Sahani
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Learn+AI+%E2%80%A2+Build+AI+%E2%80%A2+Explore+What's+Next;Learn+%E2%80%A2+Experiment+%E2%80%A2+Build+%E2%80%A2+Share;Making+AI+Practical+%26+Accessible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+First+%7C+Artificial+Intelligence;Learn+%E2%80%A2+Experiment+%E2%80%A2+Build+%E2%80%A2+Share;Making+AI+Practical+%26+Accessible" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wandrys-dev/Wandrys-dev/main/git.gif" width="260" alt="AI First" />
+  <img src="https://raw.githubusercontent.com/Wandrys-dev/Wandrys-dev/main/git.gif" width="260" alt="Git animation" />
 </p>
 
 <p align="center">
@@ -14,71 +14,56 @@
 
 ---
 
-## About AI First
+## 🤖 ABOUT AI FIRST
 
 **AI First** is an independent learning and technology platform focused on exploring the rapidly evolving world of **Artificial Intelligence**.
 
-AI is changing how we learn, work, create, and solve problems. With new models, tools, frameworks, and technologies emerging every day, getting started can feel overwhelming.
-
-AI First exists to make that journey **simpler, practical, and accessible**.
-
-Through **tutorials, projects, experiments, and practical insights**, AI First documents a continuous journey of learning, experimenting, building, and sharing — from AI fundamentals to real-world applications.
+Through **tutorials, projects, experiments, and practical insights**, AI First documents a continuous journey of learning, experimenting, building, and sharing — from understanding AI fundamentals to creating real-world applications with modern AI technologies.
 
 > **You don't need to know everything to start. You just need to start learning.**
 
----
-
-## 🚀 What We Do
-
-* 📚 **Learn** — Understand AI concepts and fundamentals
-* 🧪 **Experiment** — Explore models, tools, and emerging technologies
-* 🛠️ **Build** — Turn concepts into practical projects
-* 💡 **Share** — Document lessons, insights, and discoveries
-
 ### Learn by Building
 
-Every project focuses on the practical side of AI — showing how concepts, tools, and ideas can be translated into something real.
+The goal is simple:
+
+**Learn → Experiment → Build → Share**
+
+Making AI practical, accessible, and easier to explore.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ LANGUAGES AND TOOLS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,mysql,mongodb,numpy,pandas,tensorflow,pytorch,git,github,vscode" alt="Python, Linux, MySQL, MongoDB, NumPy, Pandas, TensorFlow, PyTorch, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,mysql,mongodb,tensorflow,pytorch" alt="Python, Linux, Git, GitHub, VS Code, MySQL, MongoDB, TensorFlow, PyTorch" />
 </p>
 
 <p align="center">
-  <b>Python</b> · <b>Linux</b> · <b>Unix</b> · <b>ServiceNow</b> · <b>NumPy</b> · <b>Pandas</b> · <b>MySQL</b> · <b>VS Code</b> · <b>Antigravity</b> · <b>MongoDB</b> · <b>TensorFlow</b> · <b>PyTorch</b> · <b>Git</b> · <b>GitHub</b>
-</p>
-
-### AI Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" alt="Grok" />
+  <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white" height="48" alt="Unix" />
+  <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white" height="48" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logo=google&logoColor=white" height="48" alt="Antigravity" />
 </p>
 
 <p align="center">
-  <b>ChatGPT</b> · <b>Gemini</b> · <b>Claude</b> · <b>Grok</b>
-</p>
-
----
-
-## 📂 Projects
-
-Explore practical experiments, tutorials, and projects around AI, Python, data, machine learning, and emerging technologies.
-
-<p align="center">
-  <a href="https://github.com/aifirstamit/Tasks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aifirstamit&repo=Tasks&hide_border=true&theme=transparent" alt="Tasks repository" />
-  </a>
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="48" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48" alt="Claude" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" height="48" alt="Grok" />
 </p>
 
 ---
 
-## 📊 GitHub
+## 🚀 PROJECTS
+
+### 🐍 [Tasks](https://github.com/aifirstamit/Tasks)
+
+Weekly Python exercises and practical implementations focused on programming fundamentals and problem-solving.
+
+---
+
+## 📊 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aifirstamit&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub Stats" />
@@ -91,7 +76,7 @@ Explore practical experiments, tutorials, and projects around AI, Python, data, 
 
 ---
 
-## 🐍 Contributions
+## 🐍 CONTRIBUTIONS
 
 <p align="center">
   <picture>
@@ -109,7 +94,7 @@ Explore practical experiments, tutorials, and projects around AI, Python, data, 
 
 ---
 
-## 🌐 Connect
+## 🌐 CONNECT
 
 <p align="center">
   <a href="https://github.com/aifirstamit">
@@ -133,6 +118,6 @@ Explore practical experiments, tutorials, and projects around AI, Python, data, 
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    ✨ Thanks for visiting AI First! &nbsp; • &nbsp; Learn AI. Build AI. Shape the Future. &nbsp; • &nbsp; Keep Learning. Keep Building. 🚀
+    ✨ Thanks for visiting my profile! &nbsp; • &nbsp; Learn AI. Build AI. Shape the Future. &nbsp; • &nbsp; Keep Learning • Keep Building • Keep Exploring 🚀
   </marquee>
 </p>
